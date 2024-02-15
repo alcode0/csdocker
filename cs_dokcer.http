@@ -1,0 +1,6 @@
+@cs_dokcer_HostAddress = http://localhost:5040
+
+GET {{cs_dokcer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
